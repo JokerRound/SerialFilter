@@ -1,0 +1,14 @@
+﻿  Building 'NTSerialFilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Dispatch.cpp
+  Launch.cpp
+d:\win32 c++\driver\ntserialfilter\ntserialfilter\launch.cpp(24): warning C4100: “pstRegistryPath”: 未引用的形参
+d:\win32 c++\driver\ntserialfilter\ntserialfilter\launch.cpp(47): warning C4189: “pstNextDeviceObject”: 局部变量已初始化但不引用
+d:\win32 c++\driver\ntserialfilter\ntserialfilter\launch.cpp(124): warning C4101: “ustrDriverObjectName”: 未引用的局部变量
+  正在编译...
+  正在生成代码...
+  NTSerialFilter.vcxproj -> D:\Win32 C++\Driver\NTSerialFilter\Debug\NTSerialFilter.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Win32 C++\Driver\NTSerialFilter\Debug\NTSerialFilter.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
