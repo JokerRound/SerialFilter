@@ -5,6 +5,9 @@ If you are learning windows driver program and this project was found by you, I 
 ## Development
 Visual Studio 2017
 
+## Test Platform
+Windows 7 sp1 x86
+
 ## Instructions
 1. Install serial filter into your computer or virturl machine.
 2. Open DebugView or other application has same attributy.
